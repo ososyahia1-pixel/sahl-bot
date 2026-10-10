@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart
 from aiohttp import web
 
 # ضع توكن البوت الخاص بك هنا
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8837299627:AAHgBPggMASHbOqQQv-OYH5P2WuFkct7K9w"
 
 dp = Dispatcher()
 
